@@ -1,6 +1,8 @@
 # ECE4160 - Fast Robots (Cornell University SP24)
 
-This is the source code repository for ***ECE4160 - Fast Robots*** by Yiyan Peng.
+This is the source code repository for [***ECE4160 - Fast Robots***](https://fastrobotscornell.github.io/FastRobots/) by Yiyan Peng.
+
+Feel free to check all the lab reports [here](https://666harrypeng.github.io/Fast-Robots/).
 
 * ***main_code*** folder:
 
