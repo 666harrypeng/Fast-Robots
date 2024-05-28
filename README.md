@@ -1,8 +1,3 @@
----
-author: Yiyan Peng
-layout: page
----
-
 # ECE4160 - Fast Robots (Cornell University SP24)
 
 This is my GitHub project webpage for [ECE4160 - Fast Robots (Cornell University SP24)](https://fastrobotscornell.github.io/FastRobots/) lab progress reports.
