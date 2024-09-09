@@ -1,8 +1,9 @@
-# ECE4160 - Fast Robots (Cornell University SP24)
 
-This is the source code repository for [***ECE4160 - Fast Robots***](https://fastrobotscornell.github.io/FastRobots/) by Yiyan Peng.
+# ECE4160/5160 - Fast Robots
 
-Feel free to check all the lab reports [here](https://666harrypeng.github.io/Fast-Robots/).
+This is the source code repository by Yiyan Peng, for the course [**ECE4160/5160 - Fast Robots (Cornell University • Spring 2024)**](https://fastrobotscornell.github.io/FastRobots/).
+
+All the lab reports can be found on the webpage [here](https://666harrypeng.github.io/Fast-Robots/).
 
 * ***main_code*** folder:
 
@@ -22,7 +23,7 @@ Code files for the analysis of IMU data properties (e.g. drift with time).
 
 ## Repo File Tree
 
-```console
+```txt
 .
 ├── README.md
 ├── imu_data_analysis
