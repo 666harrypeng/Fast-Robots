@@ -18,18 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fast Robots
+title: Fast Robots 2024 Spring
 email: yp449@cornell.edu
-description: This is Fast Robots Lab Reports Webpage by Yiyan Peng
+description: This website shows all the content of experiments and reports in the course Fast Robots (ECE 4160/5160 @ Cornell University • Spring 2024 • Yiyan Peng)
 baseurl: "/Fast-Robots" # the subpath of your site, e.g. /blog
 url: "https://666harrypeng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+linkedin_username: yiyan-peng-058a0b252
 github_username:  666harrypeng
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+
+markdown: kramdown
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
